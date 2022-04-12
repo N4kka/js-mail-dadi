@@ -1,0 +1,1 @@
+alert("gioco dei dadi");
